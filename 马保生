@@ -1,5 +1,5 @@
 测试测试4562656262
 public static void main （String [] args）{
 
-  system.out.println（“Hello word！”）;
+  system.out.println（“Hello world！”）;
 }
